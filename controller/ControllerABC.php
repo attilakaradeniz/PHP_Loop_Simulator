@@ -25,7 +25,7 @@ class ControllerABC
     {
         if (isset($_GET['loopType'])) {
             //echo " TEST: you are in if isset     "; // TEST
-            $this->loopType = $_GET['loopType'];
+            $this->loopType = strtoupper($_GET['loopType']);
         } else {
             echo 'try again';
             // (new View)->output($this->error);
@@ -51,7 +51,7 @@ class ControllerABC
                 break;
             case "UNTIL" :
                 $counter = 0;
-                $until = $_GET['until'];
+                $until = strtoupper($_GET['until']);
                 while (end($this->loopResult) != $until){
                     array_push($this->loopResult, $this->alphabetString[$counter]);
                     $counter++;

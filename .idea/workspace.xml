@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2c5179-6ce8-4654-8178-55334a388d80" name="Default Changelist" comment="" />
+    <list default="true" id="44040764-8ef7-471b-9fa0-ffe9e8a963b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/ControllerABC.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ControllerABC.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +17,11 @@
       <executable />
     </execution>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
-  <component name="ProjectId" id="1a6scyuRxizr0kK5h317ztD1qqv" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qfWFEpOFTpE97IrkHX85lMmnXC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,100 +29,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager">
-    <configuration name="ControllerABC.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/controller/ControllerABC.php">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHP Script.ControllerABC.php" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e2c5179-6ce8-4654-8178-55334a388d80" name="Default Changelist" comment="" />
-      <created>1586067460970</created>
+      <changelist id="44040764-8ef7-471b-9fa0-ffe9e8a963b4" name="Default Changelist" comment="" />
+      <created>1617471018120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586067460970</updated>
-      <workItem from="1586067462120" duration="11629000" />
-      <workItem from="1586081364834" duration="5533000" />
-      <workItem from="1586086937064" duration="2760000" />
-      <workItem from="1586089714928" duration="567000" />
-      <workItem from="1586090322770" duration="70000" />
+      <updated>1617471018120</updated>
+      <workItem from="1617471019319" duration="934000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1020" y="178" key="#CLI_Interpreters" timestamp="1586078916785">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1020" y="178" key="#CLI_Interpreters/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586078916785" />
-    <state x="1147" y="114" key="#PHP" timestamp="1586078918927">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1147" y="114" key="#PHP/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586078918927" />
-    <state x="1194" y="144" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586069125233">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1194" y="144" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586069125233" />
-    <state width="914" height="347" key="GridCell.Tab.0.bottom" timestamp="1586080937900">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937900" />
-    <state width="914" height="347" key="GridCell.Tab.0.center" timestamp="1586080937899">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937899" />
-    <state width="914" height="347" key="GridCell.Tab.0.left" timestamp="1586080937899">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937899" />
-    <state width="914" height="347" key="GridCell.Tab.0.right" timestamp="1586080937900">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937900" />
-    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1586080937835">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937835" />
-    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1586080937835">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937835" />
-    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1586080937835">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937835" />
-    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1586080937835">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586080937835" />
-    <state x="1216" y="338" key="NewPhpClassDialog" timestamp="1586076365833">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1216" y="338" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586076365833" />
-    <state x="1274" y="447" key="NewPhpFileDialog" timestamp="1586067948395">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1274" y="447" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586067948395" />
-    <state x="1920" y="166" key="SettingsEditor" timestamp="1586081147237">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1920" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586081147237" />
-    <state x="2123" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1586085895901">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2123" y="166" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586085895901" />
   </component>
 </project>
